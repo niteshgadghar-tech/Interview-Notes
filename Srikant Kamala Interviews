@@ -1,0 +1,60 @@
+Interview Experience
+
+Edviron
+--------
+Round 2: Technical Discussion
+- Started with a quick self-introduction
+- Deep dive into my Backend Assessment
+
+Topics Covered:
+- Editing MongoDB aggregation pipelines with lookup
+- Middleware implementation
+- Pagination and its advantages
+- Webhooks – especially for payment gateways & how they authenticate backend servers
+- JWT (JSON Web Token) – how it works, where tokens are stored, and how to secure them
+- AWS – general knowledge and usage
+
+Round 3: Discussion with Senior Software Engineer
+- DSA Problem: LeetCode Q. 3606 – Coupon Code Validator
+  - Explained my first approach in detail
+
+Other Discussions Included:
+- Regex
+- JWT vs Session – what data to include in each and their differences
+- How DNS works
+- Encrypting server data so even developers can’t access it
+- Different encryption techniques
+
+From My Assessment:
+- Scaling the app from handling 1 payment request to 100 concurrent requests – various approaches discussed
+- AWS-related discussions
+
+CreditQ
+--------
+- Self-introduction
+- Discussion about projects
+- React Concepts:
+  - useMemo
+  - useEffect
+  - Difference between useMemo and useEffect
+- Database:
+  - SQL vs NoSQL
+- JWT:
+  - What it is and how it secures payload data
+
+Volopay
+--------
+- Self-introduction
+- OOPs in Java:
+  - Definition and use cases
+- Inheritance:
+  - Types, which are supported in Java, and which are not
+- Encapsulation
+- Project discussion based on my resume
+- System Design:
+  - Design a DB schema and relationships for a vlog posting app
+- SQL Query:
+  - Write a query to fetch posts having more than 3 comments
+    (I used MongoDB, but the interviewer expected a PostgreSQL solution)
+- DSA Problem:
+  - Easy binary search question from LeetCode
